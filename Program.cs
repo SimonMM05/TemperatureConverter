@@ -3,7 +3,7 @@
 Console.WriteLine("Hello! Welcome to this program. The program allows you to convert between Celsius and Fahrenheit.");
 while (true)
 {
-    Console.WriteLine("Enter a number for a temperature you would like to convert to either Celsius or Fahrenheit (or 'q' to quit):");
+    Console.WriteLine("Enter a number for a temperature you would like to convert to either Celsius or Fahrenheit (or 'q' or 'quit' to quit):");
     string input = Console.ReadLine();
 
     if (input == "q" || input == "quit" || input == "exit")
@@ -47,6 +47,6 @@ while (true)
     }
     else
     {
-        Console.WriteLine("Invalid input. Please enter a valid number.");
+        Console.WriteLine("Invalid input. Please enter a valid number or 'q' or 'quit' to quit");
     }
 }
