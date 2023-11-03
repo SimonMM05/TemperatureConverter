@@ -1,0 +1,14 @@
+D:\Programming\TemperatureConverter\obj\Debug\net7.0\TemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\TemperatureConverter\obj\Debug\net7.0\TemperatureConverter.AssemblyInfoInputs.cache
+D:\Programming\TemperatureConverter\obj\Debug\net7.0\TemperatureConverter.AssemblyInfo.cs
+D:\Programming\TemperatureConverter\obj\Debug\net7.0\TemperatureConverter.csproj.CoreCompileInputs.cache
+D:\Programming\TemperatureConverter\bin\Debug\net7.0\TemperatureConverter.exe
+D:\Programming\TemperatureConverter\bin\Debug\net7.0\TemperatureConverter.deps.json
+D:\Programming\TemperatureConverter\bin\Debug\net7.0\TemperatureConverter.runtimeconfig.json
+D:\Programming\TemperatureConverter\bin\Debug\net7.0\TemperatureConverter.dll
+D:\Programming\TemperatureConverter\bin\Debug\net7.0\TemperatureConverter.pdb
+D:\Programming\TemperatureConverter\obj\Debug\net7.0\TemperatureConverter.dll
+D:\Programming\TemperatureConverter\obj\Debug\net7.0\refint\TemperatureConverter.dll
+D:\Programming\TemperatureConverter\obj\Debug\net7.0\TemperatureConverter.pdb
+D:\Programming\TemperatureConverter\obj\Debug\net7.0\TemperatureConverter.genruntimeconfig.cache
+D:\Programming\TemperatureConverter\obj\Debug\net7.0\ref\TemperatureConverter.dll
