@@ -10,7 +10,6 @@ while (true)
     {
         break;
     }
-
     if (double.TryParse(input, out double temperature))
     {
         Console.WriteLine($"You entered: {temperature}");
